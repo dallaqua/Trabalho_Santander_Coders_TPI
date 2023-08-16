@@ -33,9 +33,9 @@
 | Salário                | PCD                                                               |               |        |
 | Salário                | Por raça                                                          |               |        |
 | Fontes de dados        | Fontes de dados utilizados no trabalho                            |               |        |
-| Tecnologias utilizadas | linguagens no geral                                               | Bruno         |        |
-| Tecnologias utilizadas | Entre as linguagens listadas -> P4_e                              | Bruno         |        |
-| Tecnologias utilizadas | P4_g -> opções de cloud                                           |               |        |
-| Tecnologias utilizadas | na área de ciência, engenharia e analista (tecnologias por nicho) | Bruno         |        |
-| Tecnologias utilizadas | procurar insights com a parte de ciência de dados - P8            | Bruno         |        |
+| Tecnologias utilizadas | linguagens no geral                                               | Bruno         | Doing  |
+| Tecnologias utilizadas | Entre as linguagens listadas -> P4_e                              | Bruno         | Doing  |
+| Tecnologias utilizadas | P4_g -> opções de cloud                                           | Bruno         | To do  |
+| Tecnologias utilizadas | na área de ciência, engenharia e analista (tecnologias por nicho) | Bruno         | Doing  |
+| Tecnologias utilizadas | procurar insights com a parte de ciência de dados - P8            | Bruno         | Doing  |
 | Dados sobre o dataset  | Textos explicando área de dados e dataset                         | Fernanda      | Doing  |
