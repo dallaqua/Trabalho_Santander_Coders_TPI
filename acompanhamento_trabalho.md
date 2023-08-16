@@ -23,9 +23,9 @@
 | Satisfação  (opcional) | satisfação / insatisfação                                         |               |        |
 | Satisfação  (opcional) | motivos da insatisfação  (gráfico comparativo barras)             |               |        |
 | Densidade geográfica   | Densidade de profissionais por estado                             | Fernanda      | Doing  |
-| Densidade geográfica   | Densidade de profissionais por gênero                             | Fernanda      | To do  |
-| Densidade geográfica   | Densidade de profissionais por raça                               | Fernanda      | To do  |
-| Densidade geográfica   | Densidade de profissionais PCD                                    | Fernanda      | To do  |
+| Densidade geográfica   | Densidade de profissionais por gênero                             | Fernanda      | Doing  |
+| Densidade geográfica   | Densidade de profissionais por raça                               | Fernanda      | Doing  |
+| Densidade geográfica   | Densidade de profissionais PCD                                    | Fernanda      | Doing  |
 | Salário                | Geral                                                             | Natalia       |        |
 | Salário                | Por cargo                                                         |               |        |
 | Salário                | Por tempo de carreira                                             |               |        |
