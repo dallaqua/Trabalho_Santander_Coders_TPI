@@ -38,3 +38,4 @@
 | Tecnologias utilizadas | P4_g -> opções de cloud                                           |               |        |
 | Tecnologias utilizadas | na área de ciência, engenharia e analista (tecnologias por nicho) | Bruno         |        |
 | Tecnologias utilizadas | procurar insights com a parte de ciência de dados - P8            | Bruno         |        |
+| Dados sobre o dataset  | Textos explicando área de dados e dataset                         | Fernanda      | Doing  |
