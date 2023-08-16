@@ -2,7 +2,7 @@
 
 | Parte |                   Descrição              |   Responsável      | Status |
 |:-----:|:----------------------------------------:|:-------------:     |:------:|
-| 1     | Dados gerais / demográficos              | Natalia / Fernanda |        |
+| 1     | Dados gerais / demográficos              | Natalia / Fernanda |  Doing |
 | 2     | Dados sobre carreira                     | Natalia            |        |
 | 3     | Desafios dos gestores de  times de dados |                    |        |
 | 4     |  Conhecimentos na área de  dados         | Bruno              |        |
