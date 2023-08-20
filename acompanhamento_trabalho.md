@@ -3,7 +3,7 @@
 | Parte |                   Descrição              |   Responsável      | Status |
 |:-----:|:----------------------------------------:|:-------------:     |:------:|
 | 1     | Dados gerais / demográficos              | Natalia / Fernanda |  Doing |
-| 2     | Dados sobre carreira                     | Natalia            |        |
+| 2     | Dados sobre carreira                     | Natalia / Vinícius |        |
 | 3     | Desafios dos gestores de  times de dados |                    |        |
 | 4     |  Conhecimentos na área de  dados         | Bruno              |        |
 | 5     |  Objetivos na área de dados              |                    |        |
@@ -26,12 +26,12 @@
 | Densidade geográfica   | Densidade de profissionais por gênero                             | Fernanda      | Doing  |
 | Densidade geográfica   | Densidade de profissionais por raça                               | Fernanda      | Doing  |
 | Densidade geográfica   | Densidade de profissionais PCD                                    | Fernanda      | Doing  |
-| Salário                | Geral                                                             | Natalia       |        |
-| Salário                | Por cargo                                                         |               |        |
-| Salário                | Por tempo de carreira                                             |               |        |
-| Salário                | Por gênero                                                        |               |        |
-| Salário                | PCD                                                               |               |        |
-| Salário                | Por raça                                                          |               |        |
+| Salário                | Geral                                                             | Natalia/Vinícius   | Done   |
+| Salário                | Por cargo                                                         | Vinícius      | Done   |
+| Salário                | Por tempo de carreira                                             | Vinícius      | Done   |
+| Salário                | Por gênero                                                        | Vinícius      | Done   |
+| Salário                | PCD                                                               | Vinícius      | Done   |
+| Salário                | Por raça                                                          | Vinícius      | Done   |
 | Fontes de dados        | Fontes de dados utilizados no trabalho                            |               |        |
 | Tecnologias utilizadas | linguagens no geral                                               | Bruno         | Done  |
 | Tecnologias utilizadas | Entre as linguagens listadas -> P4_e                              | Bruno         | Done  |
