@@ -25,7 +25,7 @@ Esta é uma lista de fontes que vocês podem utilizar. Você está livre para ut
 
 O projeto pode ser feito em grupo de até 05 participantes.<br> 
 O projeto completo (Notebook, código-fonte, link para fontes, bases e demais artefatos) deve ser publicado no Github.<br>
-O projeto completo (Notebook, código-fonte, link para fontes, bases e demais artefatos) deve ser enviado por e-mail (jchambyd@gmail.com) com nome dos participantes e link do repositório no github. Colocar no assunto do e-mail: ``Projeto Santander Coders 2023 - DS - Turma 1006``<br>
+O projeto completo (Notebook, código-fonte, link para fontes, bases e demais artefatos) deve ser enviado por e-mail com nome dos participantes e link do repositório no github. Colocar no assunto do e-mail: ``Projeto Santander Coders 2023 - DS - Turma 1006``<br>
 
 #### Critérios de avaliação
 
